@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+.main {
+  background: white url(img/bg.jpg) center/cover no-repeat fixed;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Gloria Hallelujah";
+  font-size: 90px;
+  color: white;
+  padding-top: 5%;
+}
+
+.heading-text {
+  color: white;
+  margin-top: 5%;
+  width: 65%;
+  font-size: 32px;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.circle {
+  background-color: #4f6a13;
+  width: 50em;
+  height: 50em;
+  border-radius: 50%;
+}
+
+.pure-nature {
+  margin-left: 37vh;
+  margin-top: 10%;
+}
+
+.community {
+  margin-left: 37vh;
+}
+
+.peace-of-mind {
+  position: relative;
+  left: 48vw;
+  margin-top: -10%;
+  margin-bottom: -10%;
+}
+
+.circle-images {
+  width: 30%;
+  margin-top: 12%;
+}
+
+.circle-headings {
+  color: white;
+  font-size: 52px;
+}
+
+.circle-paragraphs {
+  color: white;
+  font-size: 32px;
+  margin-top: 5%;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
