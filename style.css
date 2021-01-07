@@ -11,6 +11,7 @@ html {
 .main {
   background: white url(img/bg.jpg) center/cover no-repeat fixed;
   text-align: center;
+  padding-bottom: 15vh;
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
 .heading-text {
   color: white;
   margin-top: 5%;
-  width: 65%;
+  width: 70vw;
   font-size: 32px;
   font-weight: 700;
   margin-left: auto;
@@ -70,4 +71,28 @@ h1 {
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer {
+  background-color: #2d4823;
+  color: white;
+  text-align: center;
+  padding-bottom: 7vh;
+}
+
+h2 {
+  font-size: 54px;
+  padding-top: 8vh;
+}
+
+.footer-paragraphs {
+  padding-top: 3vh;
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+}
+
+a {
+  color: white;
 }
